@@ -1,7 +1,7 @@
 # KET
 
 <p align="center">
-  <img src="ket.png" width="350">
+  <img src="justket.png" width="350">
 </p>
 
 ## what is ket?
